@@ -1,0 +1,2 @@
+mysql-connector-python
+urllib3<2

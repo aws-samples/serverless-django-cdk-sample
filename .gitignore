@@ -1,0 +1,17 @@
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Ignore config & cdk context
+config.yaml
+cdk.context.json
+
+# Django & Python
+venv
+set_env.sh
+__pycache__
